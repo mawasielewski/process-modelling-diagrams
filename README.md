@@ -1,4 +1,4 @@
-#Process Modelling Portfolio
+# Process Modelling Portfolio
 A collection of UML and BPMN diagrams created across academic and personal projects, 
 demonstrating skills in system design, requirements modelling, and business process analysis.
 
@@ -8,7 +8,7 @@ demonstrating skills in system design, requirements modelling, and business proc
 - **Requirements gathering** : Translating business needs into structured technical diagrams
 - **System architecture** : Modelling relationships, interactions, and data flows between components
 
-##Software Used
+## Software Used
 - Visual Paradigm - UML diagrams
 - Microsoft Visio - BPMN process models
 
