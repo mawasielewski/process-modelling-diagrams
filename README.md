@@ -10,19 +10,23 @@ demonstrating skills in system design, requirements modelling, and business proc
 
 ## Software Used
 - Visual Paradigm - UML diagrams
-- Microsoft Visio - BPMN process models
+- draw.io - BPMN process models
 
 ## Contents
 
-### Banking System - UML Design (Academic, QMUL)
-Object-oriented design for a banking system developed as part of BSc Computer Science 
-coursework at Queen Mary University of London.
+## Banking System - Use Case Diagram
+Models the interactions between Staff and Customer actors across core banking operations including account management, card services, and loan applications.
+![Use Case Diagram](use-case-diagram.jpg)
 
+## Banking System - Class Diagram
+Defines the object-oriented structure of the banking system, including account types (Personal, Business, Savings, Checking), card hierarchy, and relationships between entities.
 
-Diagrams included:
-- Use case diagram: customer and staff interactions across personal, business and savings accounts
-- Class diagram: full OOP design with inheritance, interfaces, associations and multiplicities
-- Sequence diagram: card cancellation flow showing object interactions and conditional logic
+![Class Diagram](class-diagram.jpg)
+
+## Banking System - Sequence Diagram
+Illustrates the interaction flow for the Cancel Card operation, showing communication between the GUI, Registry, Staff, BusinessAccount, and BusinessCard objects.
+
+![Sequence Diagram](sequence-diagram.jpg)
 
 ## Note
 These diagrams were produced as part of academic coursework and self-directed portfolio 
