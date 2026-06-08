@@ -18,6 +18,7 @@ demonstrating skills in system design, requirements modelling, and business proc
 Object-oriented design for a banking system developed as part of BSc Computer Science 
 coursework at Queen Mary University of London.
 
+
 Diagrams included:
 - Use case diagram: customer and staff interactions across personal, business and savings accounts
 - Class diagram: full OOP design with inheritance, interfaces, associations and multiplicities
