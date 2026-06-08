@@ -23,10 +23,6 @@ Diagrams included:
 - Class diagram: full OOP design with inheritance, interfaces, associations and multiplicities
 - Sequence diagram: card cancellation flow showing object interactions and conditional logic
 
-### DMAIC Process Model - Portfolio Risk Analysis (Personal Project)
-BPMN diagram modelling the five-stage DMAIC methodology applied in the Portfolio Risk 
-Analysis project, mapping the process from problem definition through to monitoring and control.
-
 ## Note
 These diagrams were produced as part of academic coursework and self-directed portfolio 
 projects. All designs are original work.
